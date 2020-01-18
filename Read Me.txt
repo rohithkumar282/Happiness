@@ -1,0 +1,17 @@
+
+MLP Regression Model
+
+Authors: 
+Rohith Kumar Punithavel
+Arizona State University
+
+
+1. Download and save all files in one location including the csv file.
+2. Run the program.
+	For windows: Run on any python software.
+	For ubuntu: enter python filename.py on terminal
+3. For results of single feature after 1000 epoch run singlefeaturecomparison_MLP.py
+4. For results of two feature after 1000 epoch run twofeaturesvshappinessscore_MLP.py
+5. For results of all features after 1000 epoch run allfeaturesvshappinessscore_MLP.py
+
+
